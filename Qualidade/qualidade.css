@@ -1,0 +1,36 @@
+body {
+		font-family: 'Noto Sans JP', sans-serif;
+		margin: 0;
+		justify-content: center;
+}
+
+#menu {
+		background-color: rgb(0, 112, 192);
+		height: 45px;
+		color: white;
+		padding-top: 20px;
+		padding-left: 40%;
+		width: 60%;
+		font-size: 15px;
+		font-weight: bold;
+		letter-spacing: 2px;
+		word-spacing: 4px;
+		}
+
+#título1 {
+		margin-top: 50px;
+		margin-bottom: 20px;
+		margin-left: 50px;
+		margin-right: 50px;
+		color: rgb(0, 112, 192);
+		font-weight: bold;
+		font-size: 30px;
+		text-align: left;
+}
+
+#conteúdo {
+		margin-top: 20px;
+		margin-bottom: 20px;
+		margin-left: 50px;
+		margin-right: 50px;
+		}
